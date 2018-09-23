@@ -6,10 +6,10 @@ A command line tool for:
 
 2. Creating header comment blocks in the following style for source files which don't have them:
 
-//=============================================================================
-// [Filename] by [Username], [Year] All Rights Reserved.
-//
-//
-//=============================================================================
+//=============================================================================<br>
+// [Filename] by [Username], [Year] All Rights Reserved.<br>
+//<br>
+//<br>
+//=============================================================================<br>
 
-*Warning: File contents will be rewritten upon running the program. Make backups of your code before you try it!*
+**Warning: File contents will be rewritten upon running the program. Make backups of your code before you try it!**
